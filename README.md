@@ -9,9 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 hrs 18 mins  █████████████████▓░░░░░░░   70.92 %
-C#           3 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Other        2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+TypeScript   16 hrs          ████████████████▒░░░░░░░░   65.58 %
+Other        3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
 ```
 
 <!--END_SECTION:waka-->
