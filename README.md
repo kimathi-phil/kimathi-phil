@@ -1,9 +1,9 @@
-<h2><img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> Hey! Nice to see you here.</h2>
+<h2><img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> Hey! Good to see you here.</h2>
 
 <p>I'm Philip, a Software Engineer from Nairobi, KE. 
 
-- I’m currently building mobile and backend applications at [Coretec Africa](https://coretecafrica.com/)</br>
-- Ask me about Flutter, Native Android, Node, Golang. I'm also currently exploring Rust, been great so far :)</p>
+- I build mobile and backend applications.
+- I like Typescript, Go, Flutter, Kotlin.. I write Rust sometimes too..</p>
 
 **This week I spent some time on**
 <!--START_SECTION:waka-->
