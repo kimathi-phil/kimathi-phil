@@ -8,7 +8,7 @@
 **This week I spent some time on**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 TypeScript                 22 hrs 5 mins   ██████████████▓░░░░░░░░░░   58.64 %
 Go                         12 hrs 45 mins  ████████▒░░░░░░░░░░░░░░░░   33.89 %
 JSON                       52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
