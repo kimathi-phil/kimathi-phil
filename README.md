@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              7 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.94 %
-Dart              4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-TypeScript        3 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-JavaScript        3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Go                1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Java              7 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+TypeScript        4 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Dart              4 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+JavaScript        3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+TSConfig          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
