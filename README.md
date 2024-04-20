@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        7 hrs 21 mins   ███████████████░░░░░░░░░░   60.11 %
-Dart              3 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 %
-HTTP Request      1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Batchfile         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Groovy            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript        9 hrs 43 mins   ███████████████▒░░░░░░░░░   61.83 %
+Dart              4 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
+HTTP Request      1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Batchfile         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Go                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
