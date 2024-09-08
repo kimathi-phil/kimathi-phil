@@ -9,7 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 hrs 55 mins   █████████████████████████   100.00 %
+Dart         3 hrs 55 mins   ███████████████████████▓░   94.47 %
+SSH Config   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
