@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         3 hrs 55 mins   ███████████████████████▓░   94.47 %
-SSH Config   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Dart         7 hrs 35 mins   ████████████████████████▒   97.06 %
+SSH Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
