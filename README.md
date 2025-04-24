@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   56 mins         █████████████████████████   99.86 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
