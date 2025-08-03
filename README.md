@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   2 hrs 7 mins    █████████████████████████   100.00 %
+Dart     2 hrs 7 mins    ███████████████████░░░░░░   76.03 %
+Python   40 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
 ```
 
 <!--END_SECTION:waka-->
