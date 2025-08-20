@@ -3,7 +3,7 @@
 <p>I'm Philip, a Software Engineer from Nairobi, KE. 
 
 - I build mobile and backend applications.
-- I like Typescript, Go, Flutter, Kotlin.. I write Rust sometimes too..</p>
+- I work with Python, Dart, Kotlin, Typescript, Go.. Rust sometimes too..</p>
 
 **This week I spent some time on**
 <!--START_SECTION:waka-->
