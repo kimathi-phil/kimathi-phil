@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+MDX          1 hr 8 mins     █████████████████████▓░░░   87.04 %
+Markdown     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
